@@ -12,7 +12,7 @@ int main (void)
 
 	{
 		printf("***MENU***\n");
-		printf("1.-SUMA DE 2 NUMEROS\n)");
+		printf("1.-SUMA DE  NUMEROS\n)");
 		printf("2.-RESTA DE 2 NUMEROS\n)");
 		printf("3.-MULTIPLICACION DE 2 NUMEROS\n)");
 		printf("4.-DIVISION DE 2 NUMEROS\n)");
